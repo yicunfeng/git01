@@ -1,1 +1,2 @@
 hello word git仓库初始化与文件添加基本操作
+git 第二次修改
