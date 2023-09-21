@@ -4,3 +4,4 @@ dev 第一次上传
 idea ignore测试
 
 idea ignore 第二次测试
+idea 3.0
